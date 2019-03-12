@@ -1,0 +1,6 @@
+# wy³¹czam ze œledzenia katalog rekurencyjne
+/build/*
+/nbproject/*
+#  wy³¹czam ze œledzenia plik
+build.xml
+manifest.mf

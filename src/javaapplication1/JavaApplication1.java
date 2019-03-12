@@ -11,9 +11,15 @@ package javaapplication1;
  */
 public class JavaApplication1 {
 
-    /**
-     * @param args the command line arguments
-     */
-
+    // pole kalsowe
+    public String name;
+    // metoda klasowa
+    public String getName(){
+        return name;
+    }
     
+    public static void main(String[] args) {
+        System.out.println("Hello GIT");
+        System.out.println("Hello GIT");
+    }    
 }
